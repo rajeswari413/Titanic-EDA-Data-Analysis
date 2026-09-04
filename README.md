@@ -1,5 +1,4 @@
 # Titanic-EDA-Data-Analysis
-# Titanic EDA - Data Analysis
 
 ## Project Description
 
