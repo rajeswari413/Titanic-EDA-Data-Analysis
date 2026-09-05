@@ -1,48 +1,70 @@
 # Titanic-EDA-Data-Analysis
+# Data Analytics & Machine Learning Projects
 
-## Project Description
+This repository contains my Data Analytics and Machine Learning projects completed using Python.
 
-This project performs Exploratory Data Analysis (EDA) on the Titanic dataset. The goal is to understand the dataset, identify missing values, analyze the distribution of features, and explore relationships between different variables.
+## Project 3 – Exploratory Data Analysis (EDA) on Titanic Dataset
 
-## Objectives
+### Description
+Performed Exploratory Data Analysis on the Titanic dataset to understand the data, identify missing values, analyze distributions, and explore relationships between different features.
 
-* Analyze the Titanic dataset
-* Identify and examine missing values
-* Study the distribution of passenger features
-* Analyze relationships between features
-* Create visualizations using Matplotlib and Seaborn
-* Understand basic statistical patterns in the data
+### Key Tasks
+- Loaded and inspected the Titanic dataset.
+- Checked and handled missing values.
+- Analyzed passenger information such as Age, Sex, and Passenger Class.
+- Created visualizations to understand data distributions.
+- Analyzed relationships between features.
+- Created correlation analysis and heatmaps.
 
-## Technologies Used
+### Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+---
 
-## Analysis Performed
+## Project 4 – Titanic Survival Prediction using Logistic Regression
 
-The project includes:
+### Description
+Built a Machine Learning classification model using Logistic Regression to predict whether a passenger survived the Titanic disaster.
 
-* Dataset inspection
-* Missing-value analysis
-* Statistical summary
-* Feature distribution analysis
-* Histograms
-* Bar charts
-* Correlation analysis
-* Correlation heatmap
+### Key Tasks
+- Loaded and explored the Titanic dataset.
+- Selected important features such as Age, Sex, and Passenger Class.
+- Performed data preprocessing and feature engineering.
+- Split the dataset into training and testing sets.
+- Trained a Logistic Regression model.
+- Made survival predictions.
+- Evaluated the model using classification metrics.
 
-## Key Skills
+### Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-* Data wrangling
-* Data cleaning
-* Exploratory Data Analysis
-* Data visualization
-* Basic statistical analysis
-* Python programming
+---
 
-## Project Outcome
+## Skills Demonstrated
 
-The EDA helps identify important patterns, distributions, missing values, and relationships among the Titanic passenger features.
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Engineering
+- Classification
+- Logistic Regression
+- Machine Learning
+- Model Evaluation
+- Python Programming
+
+## Projects
+
+### Project 3
+**Exploratory Data Analysis on Titanic Dataset**
+
+### Project 4
+**Titanic Survival Prediction using Logistic Regression**
